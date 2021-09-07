@@ -6,7 +6,7 @@
 
 ### Project to train DOM manipulation
 
-![preview](preview.gif)
+![preview](Cards-of-shoes-Opera-2021-09-07-10-02-04.gif)
 
 ## Prerequisites
 
