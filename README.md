@@ -22,6 +22,7 @@
 ## Made following the principles of:
 - [BEM]
 - [DOM]
+- [Mobile-First]
 
 
 - [HTML](https://reactjs.org) 
