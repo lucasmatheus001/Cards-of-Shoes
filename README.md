@@ -26,6 +26,12 @@ To start the project, just open the file `index.html` in your preferred browser.
 ## View Project
 https://mirandafernando.github.io/Product-Card-Challenge/
 
-### Authors
 
-- **[Lucas Matheus](https://github.com/lucasmatheus001)**
+<h2 id="author"> 💻 Author </h2>
+
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43191511?s=400&u=c57ba37bf75041a129a29c3787965eeb2497f0ff&v=4" width="100px;" alt=""/>
+
+By Lucas Matheus 💻 Pode me achar pelo:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matheus-rocha-b455a9177/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmatheussm22@gmail.com)
